@@ -1,3 +1,4 @@
+/**by Farith Comas */
 var findMedianSortedArrays = function(nums1, nums2) {
     let newNums = nums1;
     for(let i = 0; i < nums2.length; i++){

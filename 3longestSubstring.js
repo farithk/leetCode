@@ -1,3 +1,4 @@
+/**by Farith Comas */
 var lengthOfLongestSubstring = function(s) {
     let oldCharacters = [];
     let max = 0;

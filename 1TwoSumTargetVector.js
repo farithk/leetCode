@@ -1,3 +1,4 @@
+/**by Farith Comas */
 var twoSum = function(nums, target) {
     let positions = [];
     
